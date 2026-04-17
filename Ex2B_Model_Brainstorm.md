@@ -5,34 +5,34 @@ Dog Walking Business Data Points:
 1.
 b). Clients, Dogs, Walks, Payments, Scheduling, Employees
 c). 
-Clients
+CLIENTS 
 - ClientID
 - First/Last Name
 - Phone number
-Dogs
+DOGS
 - Breed
 - Age/DateOfBirth
 - DogID
 - Size
 - Temperment
 - Spade/Nutuerd
-Walks
+WALKS
 - DogID
 - EmployeeID
 - Duration of Walk
 - Routes
 - Feedback
-Payments
+PAYMENT
 - ClientID
 - DogID
 - EmployeeID
 - Card/Cash
-Scheduling
+SCHEDULING
 - ClientID
 - Type of Dog
 - Client Email/Phone number
 - Date/Time
-Employees
+EMPLOYEES
 - EmployeeID
 - First/Last Name
 - Work Schedule/Start times
