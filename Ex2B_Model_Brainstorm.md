@@ -32,8 +32,8 @@ SCHEDULING
 - Type of Dog
 - Client Email/Phone number
 - Date/Time
-EMPLOYEES
-- EmployeeID
-- First/Last Name
-- Work Schedule/Start times
-- Assigned roles
+
+4.
+a).
+Key similarities they have the same table, same core entities, same main relationships.
+b). The differences are the designs of the tables. Each table had a different AI tool, chatGPT was more general compared to claude. Pros - claude gives you a more detailed professional look and better look. Cons - Claude took a lot longer to draw it up in order to design the ERD. ChatGPT was quick but didnt have a professional look.
