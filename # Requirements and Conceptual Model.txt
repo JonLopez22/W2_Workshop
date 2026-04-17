@@ -46,7 +46,9 @@ header, continue making notes:
 #Logical Model
 
 a). Clients, Dogs, Payment, Employees
-b). pk(Primary Key) | fk(Foreign Key) | Payment: Many to One | 
+b). pk(Primary Key) | fk(Foreign Key) 
+    Table Relationships - Payment: Many to One | Client: One to Many | Dogs: One to Many | Employees: One to Many
+
 CLIENTS 
 - ClientID(pk)
 - First/Last Name
