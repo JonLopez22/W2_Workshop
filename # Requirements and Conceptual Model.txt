@@ -15,7 +15,7 @@ DOGS
 - DogID
 - Size
 - Temperment
-- Spade/Nutuerd
+- Spade/Neutered
 WALKS
 - DogID
 - EmployeeID
